@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nexuusss 👋</h1>
+<h1 align="center">Hi, I'm Nasif👋</h1>
 <p align="center">
   <b>Passionate Developer | Lifelong Learner | Collaborator</b>
 </p>
@@ -34,15 +34,8 @@
 
 ### 📫 Connect with Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-### ⚡ Fun Fact
-
-> [Share something interesting about yourself!]
+- Email: nasifabdullah82@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nasif-abdullah-117654289/
 
 ---
 
