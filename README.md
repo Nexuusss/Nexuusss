@@ -26,7 +26,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nexuusss&show_icons=true&theme=default" alt="Nexuusss's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nexuusss&theme=default" alt="GitHub Streak" />
+
 
 </p>
 
