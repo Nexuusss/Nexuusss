@@ -36,7 +36,7 @@
 ### 📫 Connect with Me
 
 - Email: nasifabdullah82@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nasif-abdullah-117654289/
+- LinkedIn: www.linkedin.com/in/nasif-abdullah007
 
 ---
 
