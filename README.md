@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Nasif👋</h1>
+<h1 align="center">Hi, I'm Nasif 👋</h1>
 <p align="center">
-  <b>Passionate Developer | Lifelong Learner | Collaborator</b>
+  <b>AI | Computer Vision | Building Intelligent Systems</b>
 </p>
 
 ---
@@ -8,43 +8,41 @@
 ### 👨‍💻 About Me
 
 Hi, I'm Nasif Abdullah 👋  
-CSE undergraduate focused on Artificial Intelligence, Machine Learning, and IoT innovation.  
+A CSE undergraduate with a strong focus on Artificial Intelligence, Machine Learning, and IoT systems.  
 
-I build intelligent systems — from IoT-based automation to deep learning models for image forgery detection.  
-Passionate about solving real-world problems using data and technology.  
+I build intelligent solutions — from IoT-based automation systems to deep learning models for image forgery detection.  
+I enjoy solving real-world problems using data, algorithms, and smart devices.  
 
 🧠 Core Areas: AI, Deep Learning, Computer Vision  
-⚙️ Tech: Python, TensorFlow, PyTorch, OpenCV, React, ESP32  
-📊 Currently exploring advanced AI and real-world deployment  
+⚙️ Tech Stack: Python, TensorFlow, PyTorch, OpenCV, React, ESP32  
+📊 Currently exploring advanced AI models and real-world deployment  
 
-Turning ideas into working systems.
+Turning ideas into practical, working systems.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python, C/C++, JavaScript, SQL, HTML, CSS 
-- **Frameworks & Libraries:**  TensorFlow, PyTorch, OpenCV, React.js 
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code, Google Colab
-- **Interests:**  Machine Learning, Artificial Intelligence, Data Science, Web Development  
+- **Languages:** Python, C/C++, JavaScript, SQL, HTML, CSS  
+- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, React.js  
+- **Database:** MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, Google Colab  
+- **Core Interests:** Machine Learning, Artificial Intelligence, Data Science, Web Development  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nexuusss&theme=dark" alt="GitHub Streak" />
-
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nexuusss&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- Email: nasifabdullah82@gmail.com
-- LinkedIn: www.linkedin.com/in/nasif-abdullah007
+- 📧 Email: nasifabdullah82@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/nasif-abdullah007  
 
 ---
 
