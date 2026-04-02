@@ -16,11 +16,11 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python, C/C++, HTML, CSS, JavaScript, SQL
-- **Frameworks & Libraries:** React
+- **Languages:** Python, C/C++, JavaScript, SQL, HTML, CSS 
+- **Frameworks & Libraries:**  React.js 
 - Database: MySQL
 - **Tools:** Git, GitHub, VS Code, Google Colab
-- **Interests:** ML, AI, Data Science, Web Development
+- **Interests:**  Machine Learning, Artificial Intelligence, Data Science, Web Development  
 
 ---
 
