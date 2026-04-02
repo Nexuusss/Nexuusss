@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** Python, C/C++, JavaScript, SQL, HTML, CSS 
-- **Frameworks & Libraries:**  React.js 
+- **Frameworks & Libraries:**  TensorFlow, PyTorch, OpenCV, React.js 
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Google Colab
 - **Interests:**  Machine Learning, Artificial Intelligence, Data Science, Web Development  
