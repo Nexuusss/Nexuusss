@@ -7,10 +7,17 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **[Your current project or area of focus]**
-- 🌱 I’m learning: **[Technologies, frameworks, or skills you’re learning]**
-- 👯 I’m open to collaborating on: **[Type of projects or topics]**
-- 🤝 I’m looking for help with: **[Any areas where you’d love feedback or support]**
+Hi, I'm Nasif Abdullah 👋  
+CSE undergraduate focused on Artificial Intelligence, Machine Learning, and IoT innovation.  
+
+I build intelligent systems — from IoT-based automation to deep learning models for image forgery detection.  
+Passionate about solving real-world problems using data and technology.  
+
+🧠 Core Areas: AI, Deep Learning, Computer Vision  
+⚙️ Tech: Python, TensorFlow, PyTorch, OpenCV, React, ESP32  
+📊 Currently exploring advanced AI and real-world deployment  
+
+Turning ideas into working systems.
 
 ---
 
