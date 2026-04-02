@@ -10,7 +10,7 @@
 Hi, I'm Nasif Abdullah 👋  
 A CSE undergraduate with a strong focus on Artificial Intelligence, Machine Learning, and IoT systems.  
 
-I build intelligent solutions — from IoT-based automation systems to deep learning models for image forgery detection.  
+I built intelligent solutions — from IoT-based automation systems to deep learning models for image forgery detection.  
 I enjoy solving real-world problems using data, algorithms, and smart devices.  
 
 🧠 Core Areas: AI, Deep Learning, Computer Vision  
