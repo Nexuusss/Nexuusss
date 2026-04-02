@@ -18,7 +18,7 @@
 
 - **Languages:** Python, C/C++, JavaScript, SQL, HTML, CSS 
 - **Frameworks & Libraries:**  React.js 
-- **Database: MySQL
+- **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Google Colab
 - **Interests:**  Machine Learning, Artificial Intelligence, Data Science, Web Development  
 
