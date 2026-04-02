@@ -16,10 +16,10 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, [Add more]
-- **Frameworks & Libraries:** [React, Vue, Bootstrap, etc.]
-- **Tools:** Git, GitHub, VS Code, [Others]
-- **Interests:** Web Development, Open Source, [Add more]
+- **Languages:** Python, C/C++, HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React
+- **Tools:** Git, GitHub, VS Code, Google Colab
+- **Interests:** ML, AI, Data Science, Web Development
 
 ---
 
